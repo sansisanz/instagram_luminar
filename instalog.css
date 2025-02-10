@@ -1,0 +1,101 @@
+.form{
+    width: 379px;
+    padding-top: 12px;
+    margin-top: 100px;
+    justify-content: center;
+    height: 364px;
+    border: 1px gray solid;
+    background-color:rgb(248, 248, 248); 
+}
+ #img1{
+    width:"135px";
+    height:"40px";
+    display: flex;
+    margin-top: 10px;
+}
+.form input{
+    width: 265px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px gray solid;
+}
+
+.form button{
+    color: white;
+    background-color: #007bfc;
+    width: 273px;
+    height:35px ;
+    
+    border-radius: 5px;
+    border: 1px #2584ea solid;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color:#0966c8 ;
+}
+
+.form hr{
+    width: 111px;
+    margin-top: 0px ;
+    margin-bottom: -11px;
+    margin-left: 60px;
+}
+
+#s{
+    margin-left: 9px;
+    color:gray ;
+}
+
+#hr1{
+    width: 111px;
+    margin-top: -10px ;
+    margin-left: 213px;
+}
+
+#a1{
+    color: rgb(61 61 215);
+    text-decoration: none;
+    font-size: small;
+    cursor: pointer;
+}
+
+#f1{
+    color: darkmagenta;
+    font-size: small;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.form2{
+    width: 379px;
+    height: 55px;
+    text-align: center;
+    border: 1px gray solid;
+    background-color:rgb(248, 248, 248)
+}
+
+#a2{
+    color:#137ff3;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#a3{
+    font-weight: bold;
+    font-size: small;
+    text-decoration: none;
+    color: rgb(36, 36, 121);
+    cursor: pointer;
+}
+
+#p2{
+    font-weight: bold;
+    font-size: small;
+    color: lightslategray;
+}
+
+img{
+    margin: 0 5px;
+}
+
